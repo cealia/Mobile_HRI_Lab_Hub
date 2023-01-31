@@ -573,4 +573,11 @@ You should be able to see both of your nodes connected through the topic.
 
 1. Link to the folder of a ROS package that contains a publisher and a subscriber 
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+* Is ROS an OS? I found the name a bit baffling. I found out that ROS is not an OS. Instead, it is a middleware suite. It is responsible for managing communication between programmes.
+* Can two nodes have the same name? No, two nodes cannot have the same name.
+* Should ROS nodes be on the same system? No, nodes in ROS do not have to be on the same system. They could be on different computers, Arduinos, and laptops.
+* What is the use of ROS topic? What is the purpose of topic? Is it just a name?
+* How can ros node be applied on different devices? What protocal does it use for low-level communication?
+
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
+In general, it is very easy to understand. I spent some time understanding the node, message, topic structure of ROS. Things become clearer when we know that the core functionality of ROS is simply communicating.

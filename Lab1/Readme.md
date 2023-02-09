@@ -1,6 +1,10 @@
 # Interaction First
 \*\***List the names and NetID for your partners here.**\*\*
 
+Alan Hsieh - amh425@cornell.edu
+
+Cealia Pai - yp332@cornell.edu
+
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
 Today, you will work with a close relative of ConeBot, CloneBot. Though closely related, CloneBot's personality (robotality?) is quite the opposite of ConeBot. It is outgoing and loves to hangout with people. You will work with CloneBot and design its legendary adventure. 
@@ -19,8 +23,7 @@ For this week's lab (and also the following week), you will work in groups of 3.
 ### Update your personal lab repo
 1.  Log in to your github, go to `YourGithubUsername/Mobile_HRI_Lab_Hub/`. 
 2.  Click "Sync fork" -> "Update branch"
-<img src="https://user-images.githubusercontent.com/20778137/216387426-475bd046-a583-4ff8-980b-cbae843b0dc5.png" width="600">
-
+<img src="https://user-images.githubusercontent.com/20778137/216361417-48d0e8b6-2d21-46e0-869c-b8aa801dfed4.png" width="600">
 3. Now your Lab Hub should be updated with the latest lab.
 
 
@@ -54,7 +57,7 @@ Follow the instructions [here](https://cornell.box.com/s/i0ykqbfz3y1fj195jax0s28
 The instructions are arranged in stages. At the beginning of each stage, each group must select one (and only one) representitive to pick up parts from us. 
 
 After you finish your robot, plug in power from the USB battery pack. Follow the instructions below to connect to your robot.
-1. Connect to WiFi "MobileHRI-x", where x is the number assigned to the ESP-32. (ESP-32 should flash once.) The password is "12345678"
+1. Connect to WiFi "MobileHRI-x", where x is the number assigned to the ESP-32. (ESP-32 should flash once.)
 2. Open a brower, in the address line, type in 192.168.4.1
 3. You should be see a control interface. Try out different buttons and see what they do.
 
@@ -78,15 +81,48 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/p1.jpg)
+
+
+In this setting, we design a household chores robot, the robot is able to do anythng for his master. The robot is able to buy meals and clean the house.
+
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/25287db45c28d55e7f5f68d84584a259a4b4e97b/Lab1/p2.jpg)
+
+In this setting, we design a grocery shopping robot, it is design to buy food for the owner. And able to buy things that the owner wants.
+
+
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/25287db45c28d55e7f5f68d84584a259a4b4e97b/Lab1/p3.jpg)
+
+In this setting, we design a dog walking robot, the robot is able to walk the dog during leisure time. It is important, which will help the
+
+
 
 ## Part C. Act out the Interaction
 
 Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine).
 
+
+https://youtu.be/LfxbFht7sNI
+
+
+
+https://youtu.be/c7BB5KT3p5Y
+
+
+
+https://youtu.be/1LAvtb89zIs
+
+
+
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
+
+Some things that seemed better on paper include the household chores robot. Since we thought it would be hard for a robot to clean the house when acting out than  we draw on paper
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+
+In the case of a grocery shopping robot, we buy things in our normal days, so we came up with an idea to act like a robot to buy things, just like how normal people buy things.
 
 ## Your Weekly Dose of ROS
 

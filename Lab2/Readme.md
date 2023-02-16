@@ -1,10 +1,13 @@
 # Then Prototype the Robot
 **List the names and NetID for your partners here.**
 
+<<<<<<< HEAD
 Alan Hsieh - amh425@cornell.edu
 
 Cealia Pai - yp332@cornell.edu
 
+=======
+>>>>>>> 32668aa4319d34ec9346819cb108209817d819fd
 This week's lab is a continuation of the previous week. We explore the role of both *siting*--the location and activity--in interaction, as well as the *form and appearance* of the robot in the interaction.
 
 

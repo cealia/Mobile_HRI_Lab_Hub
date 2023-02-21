@@ -227,6 +227,9 @@ dump_errors(odrv0) # If there is an error under axis0, rerun calibration `odrv0.
 # set velocity to 2 turns per second
 odrv0.axis0.controller.input_vel = 2
 # Your motor should spin now, take a note of the spinning direction of the wheel.
+```
+To stop the wheel, you must run the following two commands. Setting a wheel to zero velocity doesn't imply that the power is turned off. The controller is literally try to make the wheel move at 0 turn/sec. This will lock the wheel in place. Setting the state to idle disconnects wheels from power.
+```python
 odrv0.axis0.controller.input_vel = 0
 # This is important, the hub motors are not designed to have 0 velocity (it will lock the wheels and may start shaking), so we need to change its state to IDLE immediately.
 odrv0.axis0.requested_state = AXIS_STATE_IDLE
@@ -293,7 +296,13 @@ Check Canvas discussion channel "Final Project Ideas" for ideas. We posted some 
 
 ### Again, deliverables for this lab are:
 0. a video showing that you can control the hoverboard through python (functional checkoff. This is just to make sure you have a working set of hardware.)
+
+https://youtube.com/shorts/Z_zPZGDrdCo
+
 1. three sketches of potential robots you can build with this platform (what furniture can you automate?)
 
 
 
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5df72a2ff6b3dbda149a506453473562e70b8b44/Lab3/image1.jpg)
+
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5df72a2ff6b3dbda149a506453473562e70b8b44/Lab3/image2.jpg)

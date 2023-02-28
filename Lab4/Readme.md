@@ -1,6 +1,11 @@
 # Make the robot see
 **List the names and NetID for your partners here.**
 
+Alan Hsieh - amh425@cornell.edu
+
+Cealia Pai - yp332@cornell.edu
+
+
 Continue Lab 3 from last week. This week's material can be done rather quickly.
 
 
@@ -80,9 +85,20 @@ Optional: Another example you can try is from [PyTorch](https://pytorch.org/tuto
 Reflect on the following questions:
 
 1. For your favorite prototyped interaction that you have thought of so far, reflect upon how a camera connected to your Pi could be useful.
+
+Camera can be used to capture images or videos of an environment and transmit the data to the Raspberry Pi for processing and analysis. This data can then be used for various purposes, such as detecting motion or objects in the environment, tracking movements, or providing real-time surveillance.
+
 2. What issues do you foresee with this setup? 
+
+There could be potential challenges related to image quality, lighting conditions, and camera placement. For instance, if the camera is not positioned correctly, it may not capture the desired information or may result in distorted images
+
 3. How is the temperature? How is the speed? How is the connection?
+
+It's essential to ensure that the camera and Raspberry Pi don't overheat, and that the connection between the two devices is stable and reliable.
+
 4. How is the view? Would it capture what you might need to see for your prototyped interaction (in question 1)?
+
+About the view captured by the camera, it's important to ensure that the camera's field of view captures the necessary information for the intended purpose of the prototyped interaction. Depending on the specific project's requirements, the camera may need to be positioned in a particular way or have specific settings adjusted to capture the desired view accurately.
 
 
 Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.

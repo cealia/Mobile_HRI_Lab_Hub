@@ -106,6 +106,8 @@ Labs are due on Tuesdays before class. Make sure this page is linked to on your 
 ### Again, deliverables for this lab are: 
 
 0. A screenshot of the working VNC viewer with a working image view.
+![alt text](https://github.com/cealia/Mobile_HRI_Lab_Hub/blob/main/Lab4/Images/camera.jpg)
+![alt text](https://github.com/cealia/Mobile_HRI_Lab_Hub/blob/main/Lab4/Images/vnc_camera.jpg)
 
 1. Answers to the reflection questions in part D. 
 

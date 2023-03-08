@@ -1,6 +1,10 @@
 # Final Project Planning
 **List the names and NetID for your partners here.**
 
+Alan Hsieh - amh425@cornell.edu
+Cealia Pai - yp332@cornell.edu
+
+Project Proposal: https://drive.google.com/file/d/1Mqk6pet-Dvx2AZaXz14gP8ciWCngIk9R/view?usp=share_link
 
 Welcome back! Hope you had a relaxing Feburary break. We missed you. 
 
@@ -10,6 +14,8 @@ Note: Future labs will still focus on hoverboards, and all the sensors are only 
 
 ## Deliverables for this lab are:
 0. A proposal for your final project. 
+
+https://drive.google.com/file/d/1Mqk6pet-Dvx2AZaXz14gP8ciWCngIk9R/view?usp=share_link
 
 ### Requirements
 - Length: 3 pages max. Feel free to include pictures and sketches, but keep it within the 3-page limit.

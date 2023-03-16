@@ -1,6 +1,10 @@
 # Give the robot moves
 **List the names and NetID for your partners here.**
 
+Alan Hsieh - amh425@cornell.edu
+
+Cealia Pai - yp332@cornell.edu
+
 Now, let's control our robots to make them move intuitively. 
 
 As you have seen, it's pretty easy to control the wheels with Python! However, it's not easy for us as humans to move the robot in ways that feel right while thinking in terms of individual wheel velocity. If you are a gamer, you might be pretty familiar with controlling avatars with joystick controllers or keyboard keys (WASD). In today's lab, let's map joystick controller commands to wheel velocities in Python.
@@ -316,4 +320,13 @@ Now, press and hold `L1` on your controller and play with the two joysticks. Hop
 ### Again, deliverables for this lab are: 
 
 0. Videos of you controlling the wheels with your joystick controller properly.
+
+https://youtube.com/shorts/POEaeokf2mc?feature=share
+
 1. Three ideas on how to use controllers' rumble feature for Wizard of Oz.
+
+Directional feedback: The rumble feature can be used to provide feedback to the wizard about the direction in which the robot is moving. For example, if the robot is moving forward, the joystick can vibrate with a low frequency, while if it's moving backward, it can vibrate with a high frequency.
+
+Environmental feedback: The rumble feature can be used to provide feedback to the wizard about the environment in which the robot is operating. For example, if the robot is operating in a noisy environment, the joystick can vibrate with a pattern that indicates the level of noise.
+
+Object detection feedback: The rumble feature can be used to provide feedback to the wizard about objects that the robot is detecting. For example, if the robot detects an object that needs to be avoided, the joystick can vibrate with a pattern that indicates the presence of the object.

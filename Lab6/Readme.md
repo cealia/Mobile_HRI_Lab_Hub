@@ -1,6 +1,9 @@
 # Choreographing Movement
 **List the names and NetID for your partners here.**
 
+Alan Hsieh - amh425@cornell.edu
+Cealia Pai - yp332@cornell.edu
+
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
@@ -104,3 +107,10 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 3. A video showing your robot perform the movements in 2.
 4. Reflect upon your design, what would you do differently?
 
+https://youtube.com/shorts/QltZuzNwSOU?feature=share
+
+https://youtube.com/shorts/dqFYAUGhx38?feature=share
+
+https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/1d8abbca797b15140913b8907782ff41b678da06/Lab6/my_pic.jpg
+
+I will consider more about the battery life, the Raspberry Pi and ODrive may consume a lot of power, so it's important to ensure that the battery can last long enough to support the luggage's autonomous movement. Further, I think the hoverboard wheels may not be the most efficient wheels for carrying heavy luggage. I will consider to use larger wheels or different types of wheels that can handle more weight.

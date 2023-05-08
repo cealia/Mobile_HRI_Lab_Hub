@@ -3,9 +3,13 @@
 
 **List the names and NetID for your partners here.**
 
+Alan Hsieh - amh425@cornell.edu
+
+Cealia Pai - yp332@cornell.edu
 
 In this lab, let's try out some moves with our robots and make them talk!
 
+https://docs.google.com/document/d/1Mx5lJR6I29O3lGmagnf6DXlOSRrqGtwAp4WN7-e29gM/edit#
 
 ## Prep
 If you haven't finished your robot chassis, try to wrap it up in this lab.
@@ -24,6 +28,9 @@ If you haven't finished your robot chassis, try to wrap it up in this lab.
 2. A video sketch of your designed interaction
 3. Videos trying out elicited interactions
 4. Before/after sketch of your robot interacting with people through motion and voice
+
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/c31b5b13132a496af5910efe2697104af4dd472d/Lab7/sketch.jpg)
+
 5. A video sketch of your designed interaction
 6. Videos trying out elicited verbal interaction
 
